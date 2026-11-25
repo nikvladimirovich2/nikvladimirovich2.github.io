@@ -1,0 +1,40 @@
+name: Gorivo prices
+
+# Weekly maximum fuel prices from must.gov.rs -> gorivo/prices.json (read by the Gorivo app).
+# New prices are published on Fridays by 15:00 Belgrade time: check every 20 min 12:00-16:40 UTC on
+# Fridays, plus once a day in case a notice comes late or is corrected.
+on:
+  schedule:
+    - cron: "*/20 12-16 * * 5"
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+    inputs:
+      extra_ids:
+        description: "Extra notice ids to import (comma separated)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gorivo
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch new notices
+        env:
+          GORIVO_EXTRA_IDS: ${{ inputs.extra_ids }}
+        run: python3 tools/gorivo_fetch.py
+      - name: Commit
+        run: |
+          if git diff --quiet -- gorivo/prices.json; then echo "no change"; exit 0; fi
+          git config user.name "gorivo-bot"
+          git config user.email "nikvladimirovich2@users.noreply.github.com"
+          git add gorivo/prices.json
+          git commit -m "gorivo: $(python3 -c "import json;p=json.load(open('gorivo/prices.json'))['prices'][-1];print(p['from'][:10], 'diesel', p['diesel'], 'bmb95', p['bmb95'])")"
+          git push
