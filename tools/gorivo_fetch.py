@@ -20,10 +20,15 @@ BASE = "https://www.must.gov.rs"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
 LINK = re.compile(r'href="(/vest/(\d+)/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte[^"]*)"')
 MONTHS = {
+    # Standard genitive forms, plus a defensive "-ара"/"-ara" alternate genitive for the four months whose
+    # stem ends in "р" (септембар/октобар/новембар/децембар) — the ministry's own notices are not always
+    # grammatically consistent (seen: "12. септембара" and "19. септембра" in the SAME sentence, ids 15066/15210).
     "јануара": 1, "фебруара": 2, "марта": 3, "априла": 4, "маја": 5, "јуна": 6, "јула": 7, "августа": 8,
-    "септембра": 9, "октобра": 10, "новембра": 11, "децембра": 12,
+    "септембра": 9, "септембара": 9, "октобра": 10, "октобара": 10, "новембра": 11, "новембара": 11,
+    "децембра": 12, "децембара": 12,
     "januara": 1, "februara": 2, "marta": 3, "aprila": 4, "maja": 5, "juna": 6, "jula": 7, "avgusta": 8,
-    "septembra": 9, "oktobra": 10, "novembra": 11, "decembra": 12,
+    "septembra": 9, "septembara": 9, "oktobra": 10, "oktobara": 10, "novembra": 11, "novembara": 11,
+    "decembra": 12, "decembara": 12,
 }
 MONTH_RE = "|".join(MONTHS)
 DATE = rf"(\d{{1,2}})\.\s*({MONTH_RE})\s*(\d{{4}})"
