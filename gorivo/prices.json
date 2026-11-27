@@ -2,12 +2,1396 @@
  "source": "https://www.must.gov.rs/vesti/",
  "prices": [
   {
+   "id": 159,
+   "from": "2022-11-25T15:00",
+   "to": "2022-12-02T15:00",
+   "diesel": 209.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/159/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 204,
+   "from": "2022-12-02T15:00",
+   "to": "2022-12-09T15:00",
+   "diesel": 205.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/204/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 275,
+   "from": "2022-12-09T15:00",
+   "to": "2022-12-16T15:00",
+   "diesel": 201.0,
+   "bmb95": 171.0,
+   "url": "https://www.must.gov.rs/vest/275/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 297,
+   "from": "2022-12-16T15:00",
+   "to": "2022-12-23T15:00",
+   "diesel": 199.0,
+   "bmb95": 167.0,
+   "url": "https://www.must.gov.rs/vest/297/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 333,
+   "from": "2022-12-23T15:00",
+   "to": "2022-12-30T15:00",
+   "diesel": 197.0,
+   "bmb95": 164.0,
+   "url": "https://www.must.gov.rs/vest/333/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 440,
+   "from": "2022-12-30T15:00",
+   "to": "2023-01-06T15:00",
+   "diesel": 197.0,
+   "bmb95": 164.0,
+   "url": "https://www.must.gov.rs/vest/440/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 455,
+   "from": "2023-01-06T15:00",
+   "to": "2023-01-13T15:00",
+   "diesel": 195.0,
+   "bmb95": 164.0,
+   "url": "https://www.must.gov.rs/vest/455/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 471,
+   "from": "2023-01-13T15:00",
+   "to": "2023-01-20T15:00",
+   "diesel": 195.0,
+   "bmb95": 164.0,
+   "url": "https://www.must.gov.rs/vest/471/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 520,
+   "from": "2023-01-20T15:00",
+   "to": "2023-01-27T15:00",
+   "diesel": 198.0,
+   "bmb95": 167.0,
+   "url": "https://www.must.gov.rs/vest/520/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 532,
+   "from": "2023-01-27T15:00",
+   "to": "2023-02-03T15:00",
+   "diesel": 200.0,
+   "bmb95": 170.0,
+   "url": "https://www.must.gov.rs/vest/532/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 662,
+   "from": "2023-02-03T15:00",
+   "to": "2023-02-10T15:00",
+   "diesel": 197.0,
+   "bmb95": 168.0,
+   "url": "https://www.must.gov.rs/vest/662/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 702,
+   "from": "2023-02-10T15:00",
+   "to": "2023-02-17T15:00",
+   "diesel": 197.0,
+   "bmb95": 168.0,
+   "url": "https://www.must.gov.rs/vest/702/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 721,
+   "from": "2023-02-17T15:00",
+   "to": "2023-02-24T15:00",
+   "diesel": 194.0,
+   "bmb95": 171.0,
+   "url": "https://www.must.gov.rs/vest/721/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 794,
+   "from": "2023-02-24T15:00",
+   "to": "2023-03-03T15:00",
+   "diesel": 191.0,
+   "bmb95": 171.0,
+   "url": "https://www.must.gov.rs/vest/794/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 826,
+   "from": "2023-03-03T15:00",
+   "to": "2023-03-10T15:00",
+   "diesel": 194.0,
+   "bmb95": 174.0,
+   "url": "https://www.must.gov.rs/vest/826/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 893,
+   "from": "2023-03-10T15:00",
+   "to": "2023-03-17T15:00",
+   "diesel": 194.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/893/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 958,
+   "from": "2023-03-17T15:00",
+   "to": "2023-03-24T15:00",
+   "diesel": 190.0,
+   "bmb95": 174.0,
+   "url": "https://www.must.gov.rs/vest/958/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 1017,
+   "from": "2023-03-24T15:00",
+   "to": "2023-03-31T15:00",
+   "diesel": 188.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/1017/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 1072,
+   "from": "2023-03-31T15:00",
+   "to": "2023-04-07T15:00",
+   "diesel": 185.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/1072/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 1928,
+   "from": "2023-04-07T15:00",
+   "to": "2023-04-14T15:00",
+   "diesel": 186.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/1928/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2228,
+   "from": "2023-04-13T15:00",
+   "to": "2023-04-21T15:00",
+   "diesel": 187.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/2228/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 2269,
+   "from": "2023-04-21T15:00",
+   "to": "2023-04-28T15:00",
+   "diesel": 185.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/2269/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2297,
+   "from": "2023-04-28T15:00",
+   "to": "2023-05-05T15:00",
+   "diesel": 185.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/2297/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 2371,
+   "from": "2023-05-05T15:00",
+   "to": "2023-05-12T15:00",
+   "diesel": 182.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/2371/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 2454,
+   "from": "2023-05-12T15:00",
+   "to": "2023-05-19T15:00",
+   "diesel": 180.0,
+   "bmb95": 173.0,
+   "url": "https://www.must.gov.rs/vest/2454/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2487,
+   "from": "2023-05-19T15:00",
+   "to": "2023-05-26T15:00",
+   "diesel": 180.0,
+   "bmb95": 173.0,
+   "url": "https://www.must.gov.rs/vest/2487/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2571,
+   "from": "2023-05-26T15:00",
+   "to": "2023-06-02T15:00",
+   "diesel": 182.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/2571/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2602,
+   "from": "2023-06-02T15:00",
+   "to": "2023-06-09T15:00",
+   "diesel": 182.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/2602/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2670,
+   "from": "2023-06-09T15:00",
+   "to": "2023-06-16T15:00",
+   "diesel": 184.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/2670/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2726,
+   "from": "2023-06-16T15:00",
+   "to": "2023-06-23T15:00",
+   "diesel": 184.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/2726/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 2842,
+   "from": "2023-06-23T15:00",
+   "to": "2023-06-30T15:00",
+   "diesel": 186.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/2842/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 2875,
+   "from": "2023-06-30T15:00",
+   "to": "2023-07-07T15:00",
+   "diesel": 183.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/2875/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 2960,
+   "from": "2023-07-07T15:00",
+   "to": "2023-07-14T15:00",
+   "diesel": 183.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/2960/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3015,
+   "from": "2023-07-14T15:00",
+   "to": "2023-07-21T15:00",
+   "diesel": 186.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/3015/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3032,
+   "from": "2023-07-21T15:00",
+   "to": "2023-07-28T15:00",
+   "diesel": 186.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/3032/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3127,
+   "from": "2023-07-28T15:00",
+   "to": "2023-08-04T15:00",
+   "diesel": 190.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/3127/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3161,
+   "from": "2023-08-04T15:00",
+   "to": "2023-08-11T15:00",
+   "diesel": 195.0,
+   "bmb95": 186.0,
+   "url": "https://www.must.gov.rs/vest/3161/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3206,
+   "from": "2023-08-11T15:00",
+   "to": "2023-08-18T15:00",
+   "diesel": 199.0,
+   "bmb95": 186.0,
+   "url": "https://www.must.gov.rs/vest/3206/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3320,
+   "from": "2023-08-18T15:00",
+   "to": "2023-08-25T15:00",
+   "diesel": 202.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/3320/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3324,
+   "from": "2023-08-25T15:00",
+   "to": "2023-09-01T15:00",
+   "diesel": 202.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/3324/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3354,
+   "from": "2023-09-01T15:00",
+   "to": "2023-09-08T15:00",
+   "diesel": 204.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/3354/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3388,
+   "from": "2023-09-08T15:00",
+   "to": "2023-09-15T15:00",
+   "diesel": 207.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/3388/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3415,
+   "from": "2023-09-15T15:00",
+   "to": "2023-09-22T15:00",
+   "diesel": 211.0,
+   "bmb95": 192.0,
+   "url": "https://www.must.gov.rs/vest/3415/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3475,
+   "from": "2023-09-22T15:00",
+   "to": "2023-09-29T15:00",
+   "diesel": 211.0,
+   "bmb95": 192.0,
+   "url": "https://www.must.gov.rs/vest/3475/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3494,
+   "from": "2023-09-29T15:00",
+   "to": "2023-10-06T15:00",
+   "diesel": 214.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/3494/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3524,
+   "from": "2023-10-06T15:00",
+   "to": "2023-10-13T15:00",
+   "diesel": 214.0,
+   "bmb95": 188.0,
+   "url": "https://www.must.gov.rs/vest/3524/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3558,
+   "from": "2023-10-13T15:00",
+   "to": "2023-10-20T15:00",
+   "diesel": 214.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/3558/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3624,
+   "from": "2023-10-20T15:00",
+   "to": "2023-10-27T15:00",
+   "diesel": 214.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/3624/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3672,
+   "from": "2023-10-27T15:00",
+   "to": "2023-11-03T15:00",
+   "diesel": 212.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/3672/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3737,
+   "from": "2023-11-03T15:00",
+   "to": "2023-11-10T15:00",
+   "diesel": 210.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/3737/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 3781,
+   "from": "2023-11-10T15:00",
+   "to": "2023-11-17T15:00",
+   "diesel": 207.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/3781/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3824,
+   "from": "2023-11-17T15:00",
+   "to": "2023-11-24T15:00",
+   "diesel": 204.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/3824/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3888,
+   "from": "2023-11-24T15:00",
+   "to": "2023-12-01T15:00",
+   "diesel": 201.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/3888/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3920,
+   "from": "2023-12-01T15:00",
+   "to": "2023-12-08T15:00",
+   "diesel": 200.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/3920/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 3952,
+   "from": "2023-12-08T15:00",
+   "to": "2023-12-15T15:00",
+   "diesel": 197.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/3952/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4005,
+   "from": "2023-12-15T15:00",
+   "to": "2023-12-22T15:00",
+   "diesel": 195.0,
+   "bmb95": 173.0,
+   "url": "https://www.must.gov.rs/vest/4005/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4073,
+   "from": "2023-12-22T15:00",
+   "to": "2023-12-29T15:00",
+   "diesel": 195.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/4073/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4111,
+   "from": "2023-12-29T15:00",
+   "to": "2024-01-05T15:00",
+   "diesel": 195.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/4111/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11754,
+   "from": "2024-01-03T15:00",
+   "to": "2025-01-10T15:00",
+   "diesel": 199.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/11754/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4125,
+   "from": "2024-01-05T15:00",
+   "to": "2024-01-12T15:00",
+   "diesel": 194.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/4125/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 4234,
+   "from": "2024-01-12T15:00",
+   "to": "2024-01-19T15:00",
+   "diesel": 194.0,
+   "bmb95": 174.0,
+   "url": "https://www.must.gov.rs/vest/4234/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4238,
+   "from": "2024-01-19T15:00",
+   "to": "2024-01-26T15:00",
+   "diesel": 196.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/4238/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4267,
+   "from": "2024-01-26T15:00",
+   "to": "2024-02-02T15:00",
+   "diesel": 198.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/4267/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 4295,
+   "from": "2024-02-02T15:00",
+   "to": "2024-02-09T15:00",
+   "diesel": 200.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/4295/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4344,
+   "from": "2024-02-09T15:00",
+   "to": "2024-02-14T15:00",
+   "diesel": 202.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/4344/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4566,
+   "from": "2024-02-14T15:00",
+   "to": "2024-02-23T15:00",
+   "diesel": 205.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/4566/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 4668,
+   "from": "2024-02-23T15:00",
+   "to": "2024-03-01T15:00",
+   "diesel": 206.0,
+   "bmb95": 185.0,
+   "url": "https://www.must.gov.rs/vest/4668/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 4845,
+   "from": "2024-03-01T15:00",
+   "to": "2024-03-08T15:00",
+   "diesel": 204.0,
+   "bmb95": 185.0,
+   "url": "https://www.must.gov.rs/vest/4845/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 4980,
+   "from": "2024-03-08T15:00",
+   "to": "2024-03-15T15:00",
+   "diesel": 202.0,
+   "bmb95": 185.0,
+   "url": "https://www.must.gov.rs/vest/4980/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 5124,
+   "from": "2024-03-15T15:00",
+   "to": "2024-03-22T15:00",
+   "diesel": 199.0,
+   "bmb95": 185.0,
+   "url": "https://www.must.gov.rs/vest/5124/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 5361,
+   "from": "2024-03-22T15:00",
+   "to": "2024-03-29T15:00",
+   "diesel": 201.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/5361/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 5493,
+   "from": "2024-03-29T15:00",
+   "to": "2024-04-05T15:00",
+   "diesel": 203.0,
+   "bmb95": 190.0,
+   "url": "https://www.must.gov.rs/vest/5493/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 5664,
+   "from": "2024-04-05T15:00",
+   "to": "2024-04-12T15:00",
+   "diesel": 206.0,
+   "bmb95": 193.0,
+   "url": "https://www.must.gov.rs/vest/5664/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 6030,
+   "from": "2024-04-12T15:00",
+   "to": "2024-04-19T15:00",
+   "diesel": 206.0,
+   "bmb95": 195.0,
+   "url": "https://www.must.gov.rs/vest/6030/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 6198,
+   "from": "2024-04-19T15:00",
+   "to": "2024-04-26T15:00",
+   "diesel": 206.0,
+   "bmb95": 198.0,
+   "url": "https://www.must.gov.rs/vest/6198/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 6570,
+   "from": "2024-04-26T15:00",
+   "to": "2024-04-30T15:00",
+   "diesel": 206.0,
+   "bmb95": 198.0,
+   "url": "https://www.must.gov.rs/vest/6570/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 6591,
+   "from": "2024-04-30T15:00",
+   "to": "2024-05-10T15:00",
+   "diesel": 205.0,
+   "bmb95": 202.0,
+   "url": "https://www.must.gov.rs/vest/6591/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 6753,
+   "from": "2024-05-10T15:00",
+   "to": "2024-05-17T15:00",
+   "diesel": 203.0,
+   "bmb95": 199.0,
+   "url": "https://www.must.gov.rs/vest/6753/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 6888,
+   "from": "2024-05-17T15:00",
+   "to": "2024-05-24T15:00",
+   "diesel": 201.0,
+   "bmb95": 196.0,
+   "url": "https://www.must.gov.rs/vest/6888/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 6981,
+   "from": "2024-05-24T15:00",
+   "to": "2024-05-31T15:00",
+   "diesel": 201.0,
+   "bmb95": 194.0,
+   "url": "https://www.must.gov.rs/vest/6981/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 7125,
+   "from": "2024-05-31T15:00",
+   "to": "2024-06-07T15:00",
+   "diesel": 201.0,
+   "bmb95": 192.0,
+   "url": "https://www.must.gov.rs/vest/7125/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 8325,
+   "from": "2024-06-07T15:00",
+   "to": "2024-06-14T15:00",
+   "diesel": 199.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/8325/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 8469,
+   "from": "2024-06-14T15:00",
+   "to": "2024-06-21T15:00",
+   "diesel": 201.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/8469/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 8664,
+   "from": "2024-06-21T15:00",
+   "to": "2024-06-28T15:00",
+   "diesel": 203.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/8664/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 8763,
+   "from": "2024-06-28T15:00",
+   "to": "2024-07-05T15:00",
+   "diesel": 205.0,
+   "bmb95": 193.0,
+   "url": "https://www.must.gov.rs/vest/8763/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 8883,
+   "from": "2024-07-05T15:00",
+   "to": "2024-07-12T15:00",
+   "diesel": 208.0,
+   "bmb95": 195.0,
+   "url": "https://www.must.gov.rs/vest/8883/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 8988,
+   "from": "2024-07-12T15:00",
+   "to": "2024-07-19T15:00",
+   "diesel": 208.0,
+   "bmb95": 195.0,
+   "url": "https://www.must.gov.rs/vest/8988/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-mustgovrs.php"
+  },
+  {
+   "id": 9270,
+   "from": "2024-07-19T15:00",
+   "to": "2024-07-26T15:00",
+   "diesel": 205.0,
+   "bmb95": 192.0,
+   "url": "https://www.must.gov.rs/vest/9270/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9504,
+   "from": "2024-07-26T15:00",
+   "to": "2024-08-02T15:00",
+   "diesel": 202.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/9504/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9516,
+   "from": "2024-08-02T15:00",
+   "to": "2024-08-09T15:00",
+   "diesel": 201.0,
+   "bmb95": 190.0,
+   "url": "https://www.must.gov.rs/vest/9516/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9603,
+   "from": "2024-08-09T15:00",
+   "to": "2024-08-16T15:00",
+   "diesel": 198.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/9603/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9669,
+   "from": "2024-08-16T15:00",
+   "to": "2024-08-23T15:00",
+   "diesel": 198.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/9669/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9681,
+   "from": "2024-08-23T15:00",
+   "to": "2024-08-30T15:00",
+   "diesel": 195.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/9681/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9693,
+   "from": "2024-08-30T15:00",
+   "to": "2024-09-06T15:00",
+   "diesel": 194.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/9693/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 9852,
+   "from": "2024-09-06T15:00",
+   "to": "2024-09-13T15:00",
+   "diesel": 194.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/9852/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 9957,
+   "from": "2024-09-13T15:00",
+   "to": "2024-09-20T15:00",
+   "diesel": 191.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/9957/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10152,
+   "from": "2024-09-20T15:00",
+   "to": "2024-09-27T15:00",
+   "diesel": 190.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/10152/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10290,
+   "from": "2024-09-27T15:00",
+   "to": "2024-10-04T15:00",
+   "diesel": 190.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/10290/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10392,
+   "from": "2024-10-04T15:00",
+   "to": "2024-10-11T15:00",
+   "diesel": 191.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/10392/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10497,
+   "from": "2024-10-11T15:00",
+   "to": "2024-10-18T15:00",
+   "diesel": 194.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/10497/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10764,
+   "from": "2024-10-18T15:00",
+   "to": "2024-10-25T15:00",
+   "diesel": 195.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/10764/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 10887,
+   "from": "2024-10-25T15:00",
+   "to": "2024-11-01T15:00",
+   "diesel": 193.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/10887/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 10980,
+   "from": "2024-11-01T15:00",
+   "to": "2024-11-08T15:00",
+   "diesel": 192.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/10980/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11040,
+   "from": "2024-11-08T15:00",
+   "to": "2024-11-15T15:00",
+   "diesel": 194.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/11040/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11130,
+   "from": "2024-11-15T15:00",
+   "to": "2024-11-22T15:00",
+   "diesel": 194.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/11130/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11199,
+   "from": "2024-11-22T15:00",
+   "to": "2024-11-29T15:00",
+   "diesel": 197.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/11199/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11265,
+   "from": "2024-11-29T15:00",
+   "to": "2024-12-06T15:00",
+   "diesel": 197.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/11265/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11310,
+   "from": "2024-12-06T15:00",
+   "to": "2024-12-13T15:00",
+   "diesel": 196.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/11310/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11649,
+   "from": "2024-12-13T15:00",
+   "to": "2024-12-20T15:00",
+   "diesel": 196.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/11649/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 11661,
+   "from": "2024-12-20T15:00",
+   "to": "2024-12-27T15:00",
+   "diesel": 197.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/11661/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11703,
+   "from": "2024-12-27T15:00",
+   "to": "2025-01-03T15:00",
+   "diesel": 197.0,
+   "bmb95": 180.0,
+   "url": "https://www.must.gov.rs/vest/11703/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11775,
+   "from": "2025-01-10T15:00",
+   "to": "2025-01-17T15:00",
+   "diesel": 201.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/11775/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11865,
+   "from": "2025-01-17T15:00",
+   "to": "2025-01-24T15:00",
+   "diesel": 204.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/11865/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11877,
+   "from": "2025-01-24T15:00",
+   "to": "2025-01-31T15:00",
+   "diesel": 204.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/11877/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11907,
+   "from": "2025-01-31T15:00",
+   "to": "2025-02-07T15:00",
+   "diesel": 201.0,
+   "bmb95": 186.0,
+   "url": "https://www.must.gov.rs/vest/11907/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11949,
+   "from": "2025-02-07T15:00",
+   "to": "2025-02-14T15:00",
+   "diesel": 201.0,
+   "bmb95": 186.0,
+   "url": "https://www.must.gov.rs/vest/11949/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 11967,
+   "from": "2025-02-14T15:00",
+   "to": "2025-02-21T15:00",
+   "diesel": 203.0,
+   "bmb95": 188.0,
+   "url": "https://www.must.gov.rs/vest/11967/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 11994,
+   "from": "2025-02-21T15:00",
+   "to": "2025-02-28T15:00",
+   "diesel": 204.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/11994/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12057,
+   "from": "2025-02-28T15:00",
+   "to": "2025-03-07T15:00",
+   "diesel": 203.0,
+   "bmb95": 187.0,
+   "url": "https://www.must.gov.rs/vest/12057/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 12087,
+   "from": "2025-03-07T15:00",
+   "to": "2025-03-14T15:00",
+   "diesel": 200.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/12087/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12141,
+   "from": "2025-03-14T15:00",
+   "to": "2025-03-21T15:00",
+   "diesel": 197.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/12141/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12216,
+   "from": "2025-03-21T15:00",
+   "to": "2025-03-28T15:00",
+   "diesel": 195.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/12216/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12303,
+   "from": "2025-03-28T15:00",
+   "to": "2025-04-04T15:00",
+   "diesel": 196.0,
+   "bmb95": 183.0,
+   "url": "https://www.must.gov.rs/vest/12303/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12483,
+   "from": "2025-04-04T15:00",
+   "to": "2025-04-11T15:00",
+   "diesel": 196.0,
+   "bmb95": 183.0,
+   "url": "https://www.must.gov.rs/vest/12483/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12606,
+   "from": "2025-04-11T15:00",
+   "to": "2025-04-17T15:00",
+   "diesel": 192.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/12606/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12663,
+   "from": "2025-04-17T15:00",
+   "to": "2025-04-25T15:00",
+   "diesel": 189.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/12663/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12825,
+   "from": "2025-04-25T15:00",
+   "to": "2025-04-30T15:00",
+   "diesel": 189.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/12825/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12864,
+   "from": "2025-04-30T15:00",
+   "to": "2025-05-09T15:00",
+   "diesel": 188.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/12864/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 12906,
+   "from": "2025-05-09T15:00",
+   "to": "2025-05-16T15:00",
+   "diesel": 186.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/12906/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13089,
+   "from": "2025-05-16T15:00",
+   "to": "2025-05-23T15:00",
+   "diesel": 187.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/13089/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13206,
+   "from": "2025-05-23T15:00",
+   "to": "2025-05-30T15:00",
+   "diesel": 187.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/13206/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13326,
+   "from": "2025-05-30T15:00",
+   "to": "2025-06-06T15:00",
+   "diesel": 187.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/13326/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13425,
+   "from": "2025-06-06T15:00",
+   "to": "2025-06-13T15:00",
+   "diesel": 187.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/13425/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13914,
+   "from": "2025-06-13T15:00",
+   "to": "2025-06-20T15:00",
+   "diesel": 189.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/13914/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 13992,
+   "from": "2025-06-20T15:00",
+   "to": "2025-06-27T15:00",
+   "diesel": 192.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/13992/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14034,
+   "from": "2025-06-27T15:00",
+   "to": "2025-07-04T15:00",
+   "diesel": 194.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/14034/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14058,
+   "from": "2025-07-04T15:00",
+   "to": "2025-07-11T15:00",
+   "diesel": 194.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/14058/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14145,
+   "from": "2025-07-11T15:00",
+   "to": "2025-07-18T15:00",
+   "diesel": 196.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/14145/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14196,
+   "from": "2025-07-18T15:00",
+   "to": "2025-07-25T15:00",
+   "diesel": 197.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/14196/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14214,
+   "from": "2025-07-25T15:00",
+   "to": "2025-08-01T15:00",
+   "diesel": 196.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/14214/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14316,
+   "from": "2025-08-01T15:00",
+   "to": "2025-08-08T15:00",
+   "diesel": 196.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/14316/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14433,
+   "from": "2025-08-08T15:00",
+   "to": "2025-08-15T15:00",
+   "diesel": 193.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/14433/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14691,
+   "from": "2025-08-15T15:00",
+   "to": "2025-08-22T15:00",
+   "diesel": 192.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/14691/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14718,
+   "from": "2025-08-22T15:00",
+   "to": "2025-08-29T15:00",
+   "diesel": 192.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/14718/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14841,
+   "from": "2025-08-29T15:00",
+   "to": "2025-09-05T15:00",
+   "diesel": 193.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/14841/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 14952,
+   "from": "2025-09-05T15:00",
+   "to": "2025-09-12T15:00",
+   "diesel": 194.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/14952/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 15336,
+   "from": "2025-09-26T15:00",
+   "to": "2025-10-03T15:00",
+   "diesel": 195.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/15336/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 15406,
+   "from": "2025-10-03T15:00",
+   "to": "2025-10-10T15:00",
+   "diesel": 195.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/15406/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 15523,
+   "from": "2025-10-10T15:00",
+   "to": "2025-10-17T15:00",
+   "diesel": 194.0,
+   "bmb95": 178.0,
+   "url": "https://www.must.gov.rs/vest/15523/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 15652,
+   "from": "2025-10-17T15:00",
+   "to": "2025-10-24T15:00",
+   "diesel": 192.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/15652/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 15829,
+   "from": "2025-10-24T15:00",
+   "to": "2025-10-31T15:00",
+   "diesel": 193.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/15829/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 16204,
+   "from": "2025-11-07T15:00",
+   "to": "2025-11-14T15:00",
+   "diesel": 198.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/16204/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 16402,
+   "from": "2025-11-14T15:00",
+   "to": "2025-11-21T15:00",
+   "diesel": 201.0,
+   "bmb95": 182.0,
+   "url": "https://www.must.gov.rs/vest/16402/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 16489,
+   "from": "2025-11-21T15:00",
+   "to": "2025-11-28T15:00",
+   "diesel": 204.0,
+   "bmb95": 183.0,
+   "url": "https://www.must.gov.rs/vest/16489/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 16549,
+   "from": "2025-11-28T15:00",
+   "to": "2025-12-05T15:00",
+   "diesel": 201.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/16549/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 16657,
+   "from": "2025-12-05T15:00",
+   "to": "2025-12-12T15:00",
+   "diesel": 198.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/16657/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 17218,
+   "from": "2025-12-12T15:00",
+   "to": "2025-12-19T15:00",
+   "diesel": 198.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/17218/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 17521,
+   "from": "2025-12-26T15:00",
+   "to": "2025-12-31T15:00",
+   "diesel": 194.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/17521/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 17563,
+   "from": "2025-12-31T15:00",
+   "to": "2026-01-09T15:00",
+   "diesel": 193.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/17563/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 17686,
+   "from": "2026-01-09T15:00",
+   "to": "2026-01-16T15:00",
+   "diesel": 191.0,
+   "bmb95": 174.0,
+   "url": "https://www.must.gov.rs/vest/17686/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 17716,
+   "from": "2026-01-16T15:00",
+   "to": "2026-01-23T15:00",
+   "diesel": 192.0,
+   "bmb95": 175.0,
+   "url": "https://www.must.gov.rs/vest/17716/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 17911,
+   "from": "2026-01-23T15:00",
+   "to": "2026-01-30T15:00",
+   "diesel": 193.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/17911/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18025,
+   "from": "2026-01-30T15:00",
+   "to": "2026-02-06T15:00",
+   "diesel": 193.0,
+   "bmb95": 176.0,
+   "url": "https://www.must.gov.rs/vest/18025/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18097,
+   "from": "2026-02-06T15:00",
+   "to": "2026-02-13T15:00",
+   "diesel": 196.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/18097/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18181,
+   "from": "2026-02-13T15:00",
+   "to": "2026-02-20T15:00",
+   "diesel": 196.0,
+   "bmb95": 177.0,
+   "url": "https://www.must.gov.rs/vest/18181/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 18192,
+   "from": "2026-02-20T15:00",
+   "to": "2026-02-27T15:00",
+   "diesel": 198.0,
+   "bmb95": 179.0,
+   "url": "https://www.must.gov.rs/vest/18192/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18241,
+   "from": "2026-02-27T15:00",
+   "to": "2026-03-06T15:00",
+   "diesel": 200.0,
+   "bmb95": 181.0,
+   "url": "https://www.must.gov.rs/vest/18241/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18377,
+   "from": "2026-03-06T15:00",
+   "to": "2026-03-13T15:00",
+   "diesel": 203.0,
+   "bmb95": 184.0,
+   "url": "https://www.must.gov.rs/vest/18377/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
    "id": 18707,
    "from": "2026-03-13T15:00",
    "to": "2026-03-20T15:00",
    "diesel": 208.0,
    "bmb95": 186.0,
    "url": "https://www.must.gov.rs/vest/18707/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18814,
+   "from": "2026-03-20T15:00",
+   "to": "2026-03-27T15:00",
+   "diesel": 212.0,
+   "bmb95": 188.0,
+   "url": "https://www.must.gov.rs/vest/18814/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 18854,
+   "from": "2026-03-27T15:00",
+   "to": "2026-04-03T15:00",
+   "diesel": 213.0,
+   "bmb95": 188.0,
+   "url": "https://www.must.gov.rs/vest/18854/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 19020,
+   "from": "2026-04-03T15:00",
+   "to": "2026-04-09T15:00",
+   "diesel": 214.0,
+   "bmb95": 189.0,
+   "url": "https://www.must.gov.rs/vest/19020/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 19051,
+   "from": "2026-04-09T15:00",
+   "to": "2026-04-17T15:00",
+   "diesel": 217.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/19051/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 19111,
+   "from": "2026-04-17T15:00",
+   "to": "2026-04-24T15:00",
+   "diesel": 217.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/19111/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   },
   {
    "id": 19147,
@@ -18,6 +1402,30 @@
    "url": "https://www.must.gov.rs/vest/19147/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   },
   {
+   "id": 19404,
+   "from": "2026-04-30T15:00",
+   "to": "2026-05-08T15:00",
+   "diesel": 221.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/19404/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 19465,
+   "from": "2026-05-08T15:00",
+   "to": "2026-05-15T15:00",
+   "diesel": 223.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/19465/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 19536,
+   "from": "2026-05-15T15:00",
+   "to": "2026-05-22T15:00",
+   "diesel": 223.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/19536/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
    "id": 19777,
    "from": "2026-05-22T15:00",
    "to": "2026-05-29T15:00",
@@ -26,12 +1434,148 @@
    "url": "https://www.must.gov.rs/vest/19777/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   },
   {
+   "id": 19951,
+   "from": "2026-05-29T15:00",
+   "to": "2026-06-05T15:00",
+   "diesel": 222.0,
+   "bmb95": 196.0,
+   "url": "https://www.must.gov.rs/vest/19951/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20026,
+   "from": "2026-06-05T15:00",
+   "to": "2026-06-12T15:00",
+   "diesel": 222.0,
+   "bmb95": 196.0,
+   "url": "https://www.must.gov.rs/vest/20026/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20131,
+   "from": "2026-06-12T15:00",
+   "to": "2026-06-19T15:00",
+   "diesel": 220.0,
+   "bmb95": 194.0,
+   "url": "https://www.must.gov.rs/vest/20131/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20188,
+   "from": "2026-06-19T15:00",
+   "to": "2026-06-26T15:00",
+   "diesel": 217.0,
+   "bmb95": 191.0,
+   "url": "https://www.must.gov.rs/vest/20188/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
    "id": 20308,
    "from": "2026-06-26T15:00",
    "to": "2026-07-03T15:00",
    "diesel": 217.0,
    "bmb95": 193.0,
    "url": "https://www.must.gov.rs/vest/20308/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20386,
+   "from": "2026-07-03T15:00",
+   "to": "2026-07-10T15:00",
+   "diesel": 219.0,
+   "bmb95": 195.0,
+   "url": "https://www.must.gov.rs/vest/20386/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20476,
+   "from": "2026-07-10T15:00",
+   "to": "2026-07-17T15:00",
+   "diesel": 220.0,
+   "bmb95": 196.0,
+   "url": "https://www.must.gov.rs/vest/20476/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20683,
+   "from": "2026-07-17T15:00",
+   "to": "2026-07-24T15:00",
+   "diesel": 222.0,
+   "bmb95": 198.0,
+   "url": "https://www.must.gov.rs/vest/20683/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20788,
+   "from": "2026-07-24T15:00",
+   "to": "2026-07-31T15:00",
+   "diesel": 224.0,
+   "bmb95": 200.0,
+   "url": "https://www.must.gov.rs/vest/20788/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 20875,
+   "from": "2026-07-31T15:00",
+   "to": "2026-08-07T15:00",
+   "diesel": 226.0,
+   "bmb95": 202.0,
+   "url": "https://www.must.gov.rs/vest/20875/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95-.php"
+  },
+  {
+   "id": 20929,
+   "from": "2026-08-07T15:00",
+   "to": "2026-08-14T15:00",
+   "diesel": 227.0,
+   "bmb95": 202.0,
+   "url": "https://www.must.gov.rs/vest/20929/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 21277,
+   "from": "2026-08-14T15:00",
+   "to": "2026-08-21T15:00",
+   "diesel": 229.0,
+   "bmb95": 200.0,
+   "url": "https://www.must.gov.rs/vest/21277/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 21511,
+   "from": "2026-08-21T15:00",
+   "to": "2026-08-28T15:00",
+   "diesel": 231.0,
+   "bmb95": 202.0,
+   "url": "https://www.must.gov.rs/vest/21511/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 21754,
+   "from": "2026-08-28T15:00",
+   "to": "2026-09-04T15:00",
+   "diesel": 232.0,
+   "bmb95": 203.0,
+   "url": "https://www.must.gov.rs/vest/21754/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 21943,
+   "from": "2026-09-04T15:00",
+   "to": "2026-09-11T15:00",
+   "diesel": 234.0,
+   "bmb95": 205.0,
+   "url": "https://www.must.gov.rs/vest/21943/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 22030,
+   "from": "2026-09-11T15:00",
+   "to": "2026-09-18T15:00",
+   "diesel": 234.0,
+   "bmb95": 205.0,
+   "url": "https://www.must.gov.rs/vest/22030/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 22138,
+   "from": "2026-09-18T15:00",
+   "to": "2026-09-25T15:00",
+   "diesel": 236.0,
+   "bmb95": 207.0,
+   "url": "https://www.must.gov.rs/vest/22138/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 22207,
+   "from": "2026-09-25T15:00",
+   "to": "2026-10-02T15:00",
+   "diesel": 236.0,
+   "bmb95": 207.0,
+   "url": "https://www.must.gov.rs/vest/22207/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   },
   {
    "id": 22297,
@@ -98,6 +1642,6 @@
    "url": "https://www.must.gov.rs/vest/23227/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   }
  ],
- "updated": "2026-11-25T20:58:39Z",
+ "updated": "2026-11-27T01:27:34Z",
  "schema": 1
 }
