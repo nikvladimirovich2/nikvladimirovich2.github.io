@@ -1656,8 +1656,16 @@
    "diesel": 236.0,
    "bmb95": 204.0,
    "url": "https://www.must.gov.rs/vest/23227/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
+  },
+  {
+   "id": 23245,
+   "from": "2026-11-27T15:00",
+   "to": "2026-12-04T15:00",
+   "diesel": 233.0,
+   "bmb95": 201.0,
+   "url": "https://www.must.gov.rs/vest/23245/obavestenje-o-najvisoj-maloprodajnoj-ceni-derivata-nafte-evro-dizel-i-evro-premijum-bmb-95.php"
   }
  ],
- "updated": "2026-11-27T03:50:41Z",
+ "updated": "2026-11-27T17:29:58Z",
  "schema": 1
 }
